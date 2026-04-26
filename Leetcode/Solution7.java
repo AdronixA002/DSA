@@ -1,4 +1,4 @@
-class Solution {
+class Solution7 {
     public int maxDistance(int[] nums1, int[] nums2) {
         int i = 0, j = 0, max = 0;
 

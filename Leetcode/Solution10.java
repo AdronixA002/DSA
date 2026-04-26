@@ -1,4 +1,4 @@
-class Solution {
+class Solution10 {
     public int maxDistance(int[] colors) {
         int max =0;
 

@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.HashMap;
-class Solution {
+import java.util.Map;
+class Solution5 {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int length =nums.length;
         int[] answer = new int[nums.length];

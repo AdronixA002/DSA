@@ -1,5 +1,4 @@
-import java.util.Arrays;
-class Solution {
+class Solution2 {
     public int[] findErrorNums(int[] nums) {
         int[] answer = new int[2];
         int[] count = new int[nums.length+1];

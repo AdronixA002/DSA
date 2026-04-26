@@ -1,6 +1,6 @@
-import java.util.Map;
 import java.util.HashMap;
-class Solution {
+import java.util.Map;
+class Solution11 {
     public int[] twoSum(int[] nums, int target) {
         int[] ans = new int[2];
         Map<Integer,Integer> map = new HashMap<>();

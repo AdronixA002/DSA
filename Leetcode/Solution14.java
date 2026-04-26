@@ -1,4 +1,4 @@
-class Solution {
+class Solution14 {
     public int furthestDistanceFromOrigin(String moves) {
         int ans = 0;
         int[] chart = new int[3];

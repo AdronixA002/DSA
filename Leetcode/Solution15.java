@@ -1,4 +1,5 @@
-class Solution {
+import java.util.Arrays;
+class Solution15 {
     public int maxDistance(int side, int[][] points, int k) {
         int n = points.length;
         long[] pos = new long[n];
