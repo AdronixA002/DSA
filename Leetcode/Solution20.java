@@ -1,4 +1,7 @@
-class Solution {
+
+import java.util.Arrays;
+
+class Solution20 {
 
     public int maxPathScore(int[][] grid, int k) {
         int m = grid.length;

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class Solution {
+class Solution18 {
     public int minOperations(int[][] grid, int x) {
         int mn = grid.length * grid[0].length;
         List<Integer> list = new ArrayList<>();

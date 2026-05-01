@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solution17 {
     public boolean hasValidPath(int[][] grid) {
         int m = grid.length, n = grid[0].length;
 
