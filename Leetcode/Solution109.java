@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution109 {
     public int longestConsecutive(int[] nums) {
         int ans = 1, max = 1;
