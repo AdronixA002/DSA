@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-class Solution {
+class Solution187 {
     static final int LIM = 1 << 10;
     public int minCost(int[][] A) {
         int m = A.length, n = A[0].length;

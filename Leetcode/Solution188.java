@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solution188 {
     int N;
     int[] bit;
     int LOG;
